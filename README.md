@@ -52,5 +52,19 @@ to the error output
 - The binary file must be named `minishell`
 - Handle program interruption (Ctrl + D)
 
+### Resources
+
+* https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/
+* https://www.thegeekstuff.com/2012/03/catch-signals-sample-c-code/
+* https://www.geeksforgeeks.org/dup-dup2-linux-system-call/?ref=rp
+* https://www.geeksforgeeks.org/pipe-system-call/?ref=rp
+* https://www.tutorialspoint.com/unix/unix-signals-traps.htm
+* https://www.tutorialspoint.com/unix_system_calls/execve.htm
+* http://www.rozmichelle.com/pipes-forks-dups/
+* http://tzimmermann.org/2017/08/17/file-descriptors-during-fork-and-exec/
+* http://tzimmermann.org/2017/09/01/the-internals-of-unix-pipes-and-fifos/
+* https://catonmat.net/ftp/bash-redirections-cheat-sheet.pdf
+
+
 [1]: https://github.com/bMicheal42/minishell/blob/main/minishell.en.pdf
 [2]: https://github.com/bMicheal42/minishell/blob/main/norme.en.pdf
