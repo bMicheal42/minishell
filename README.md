@@ -9,7 +9,7 @@ It's a minimum viable version of a real shell.
 The main goal is to have a good understanding of process creation and
 synchronisation using the C programmming language.
 
-Click here to see full [Subject][https://github.com/bMicheal42/minishell/blob/main/minishell.en.pdf]
+Click here to see full [Subject][1]
 
 ## Installation & Usage
 
@@ -32,7 +32,7 @@ After building the source, run `./minishell` from the project root.
 ### Mandatory
 
 - Can only use C
-- Must respect the school imposed coding style ([The Norme][https://github.com/bMicheal42/minishell/blob/main/norme.en.pdf])
+- Must respect the school imposed coding style ([The Norme][2])
 - No memory leaks
 - Implement a series of builtins: `echo`, `cd`, `setenv`, `unsetenv`, `env`, `exit`
 - Manage the errors without using `errno`, by displaying a message adapted
@@ -52,3 +52,5 @@ to the error output
 - The binary file must be named `minishell`
 - Handle program interruption (Ctrl + D)
 
+[1]: https://github.com/bMicheal42/minishell/blob/main/minishell.en.pdf
+[2]: https://github.com/bMicheal42/minishell/blob/main/norme.en.pdf
