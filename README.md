@@ -32,7 +32,7 @@ After building the source, run `./minishell` from the project root.
 ### Mandatory
 
 - Can only use C
-- Must respect the school imposed coding style ([The Norme][2])
+- Must respect the school imposed coding style [The Norme][2]
 - No memory leaks
 - Implement a series of builtins: `echo`, `cd`, `setenv`, `unsetenv`, `env`, `exit`
 - Manage the errors without using `errno`, by displaying a message adapted
